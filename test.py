@@ -1,3 +1,3 @@
-print("Python")
+print("Python education")
 #new string
-print("DICT")
+print("Hello DICT!")
