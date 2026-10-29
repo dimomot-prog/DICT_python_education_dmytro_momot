@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6f06d21-6ee6-47f6-820d-ba707d071948" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dimomot-prog&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dimomot-prog/DICT_python_education_dmytro_momot.git&quot;,
+    &quot;accountId&quot;: &quot;7361b7f7-94e4-4618-a2b2-0967497f94fd&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.1624562256473857E-16" />
+      <entry key="MS500" value="0.0010271154145457023" />
+      <entry key="S2" value="0.3769273887027995" />
+      <entry key="S5" value="1.6417723999003084" />
+      <entry key="S10" value="4.684534058318578" />
+      <entry key="S30" value="15.760145407575894" />
+      <entry key="S60" value="23.117098905891034" />
+      <entry key="M2" value="28.334173022656028" />
+      <entry key="M5" value="32.360173757313184" />
+      <entry key="M10" value="40.350251353928186" />
+      <entry key="M15" value="56.41879016589703" />
+      <entry key="M30" value="115.99262986090615" />
+      <entry key="H1" value="261.1403796365274" />
+      <entry key="H2" value="638.6295821017068" />
+      <entry key="H4" value="1234.6565481257085" />
+      <entry key="D1" value="2439.5866732880327" />
+      <entry key="W1" value="3386.7212344545887" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000000399514" />
+      <entry key="M5" value="1.00013205097332" />
+      <entry key="M10" value="1.0198556705814743" />
+      <entry key="M15" value="1.1060296310834543" />
+      <entry key="M30" value="1.6262781275569784" />
+      <entry key="H1" value="3.710131353385712" />
+      <entry key="H2" value="11.460104856869428" />
+      <entry key="H4" value="26.446977309237383" />
+      <entry key="D1" value="60.98252799764218" />
+      <entry key="W1" value="85.60070482160128" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.205276609755752E-14" />
+      <entry key="MS500" value="0.0025033432763507764" />
+      <entry key="S2" value="0.5676317361888338" />
+      <entry key="S5" value="2.154585828807334" />
+      <entry key="S10" value="5.396105544309341" />
+      <entry key="S30" value="16.641191154210023" />
+      <entry key="S60" value="24.050534231504336" />
+      <entry key="M2" value="29.298273941786587" />
+      <entry key="M5" value="33.345109371432635" />
+      <entry key="M10" value="41.36141179801431" />
+      <entry key="M15" value="57.51731125894997" />
+      <entry key="M30" value="117.60986122134169" />
+      <entry key="H1" value="264.83004099053875" />
+      <entry key="H2" value="650.0549150557845" />
+      <entry key="H4" value="1261.067129029954" />
+      <entry key="D1" value="2500.5570049906405" />
+      <entry key="W1" value="3472.31981613263" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JuwXDCJrlnoDMfDLbZ0pfCKEEb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.chatbot.executor": "Run",
+    "Python.zoo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "feature/pencils",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\acerd\PycharmProjects\DICT_python_education_dmytro_momot2\dinnerparty" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tictactoe" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DICT_python_education_dmytro_momot2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tictactoe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6f06d21-6ee6-47f6-820d-ba707d071948" name="Changes" comment="" />
+      <created>1790524298992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790524298992</updated>
+      <workItem from="1790524300104" duration="62000" />
+      <workItem from="1790524574193" duration="4106000" />
+      <workItem from="1790580294312" duration="2568000" />
+      <workItem from="1790754926017" duration="173000" />
+      <workItem from="1790755196766" duration="1450000" />
+      <workItem from="1790759692314" duration="53000" />
+      <workItem from="1790759812788" duration="36766000" />
+      <workItem from="1792573477339" duration="5907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DICT_python_education_dmytro_momot2$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1790762263532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DICT_python_education_dmytro_momot2$zoo.coverage" NAME="zoo Coverage Results" MODIFIED="1791372894366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
